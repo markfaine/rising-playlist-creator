@@ -1,5 +1,5 @@
 ## Rising Playlist Creator
-This is a python script that will copy the playlist that is posted daily on the /r/rising subreddit to your account.  It also has an option to delete it.
+This is a python script that will copy the playlist that is posted daily on the /r/rising subreddit to your youtube account.  It also has an option to delete it.
 
 ## Prerequisites
 
