@@ -1,0 +1,11 @@
+**/*.bak
+**/build
+**/*.egg-info
+**/.eggs
+**/.vscode
+**/dist
+**/__pycache__
+**/build.sh
+**/token_youtube_v3.pickle
+**/client_secret_file.json
+**/Makefile
