@@ -26,7 +26,7 @@ REDDIT_SECRET_KEY = '<your secret key>'
 ## Setup
 With the above prerequisites complete you can now install the module.  It's of course best to install into a virtualenv but setting up a virtualenv is definitely out of scope for this readme.
 
-    ```python3 setup.py install``
+```python3 setup.py install```
 
 You should now have the command `rising-playlist-creator`
 
