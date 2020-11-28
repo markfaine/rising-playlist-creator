@@ -18,8 +18,10 @@ Next you will need to create an application on reddit.  Go [here](https://ssl.re
 
 Edit rising.py and then set the following constants to the respective values in your application on reddit.
 
+```
 REDDIT_CLIENT_ID = '<your client id>'
 REDDIT_SECRET_KEY = '<your secret key>'
+```
 
 ## Setup
 With the above prerequisites complete you can now install the module.  It's of course best to install into a virtualenv but setting up a virtualenv is definitely out of scope for this readme.
